@@ -1,5 +1,5 @@
 # Controller Bluetooth
-This is the bluetooth code from the RCC NASA Suits project 2018. This code managed all the communication between the bluetooth controller and the hololens. It is split up into two projects. It includes a basic packet format for sending and recieving data.
+This is the bluetooth code from the Aether project 2018. This code managed all the communication between the bluetooth controller and the hololens. It is split up into two projects. It includes a basic packet format for sending and recieving data.
 
 ## ControllerTeensy
 
